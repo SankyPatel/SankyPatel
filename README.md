@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SankyPatel
-- 👀 I’m interested in crm
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning salesforce
 - 💞️ I’m looking to collaborate on learning groups
 - 📫 How to reach me email
